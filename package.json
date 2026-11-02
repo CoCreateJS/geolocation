@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoCreateJS/CoCreate-geolocation.git"
+    "url": "git+https://github.com/CoCreateJS/geolocation.git"
   },
   "author": "CoCreate LLC",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/CoCreateJS/CoCreate-geolocation/issues"
+    "url": "https://github.com/CoCreateJS/geolocation/issues"
   },
   "homepage": "https://CoCreateJS.com/docs/geolocation",
   "main": "./src/index.js",
